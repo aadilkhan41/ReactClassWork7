@@ -5,7 +5,7 @@ import rehypeRaw from "rehype-raw";
 import { v4 as uuidv4 } from "uuid";
 import { Heading } from '../assets/Heading';
 import { Bold } from '../assets/Bold';
-import { Italic } from '../assets/italic';
+import { Italic } from '../assets/Italic';
 import { Strike } from '../assets/Strike';
 import { Link } from '../assets/Link';
 import { Quote } from '../assets/Quote';
